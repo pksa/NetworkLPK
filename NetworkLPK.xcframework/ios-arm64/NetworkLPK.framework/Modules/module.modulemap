@@ -1,0 +1,11 @@
+framework module NetworkLPK {
+  umbrella header "NetworkLPK.h"
+
+  export *
+  module * { export * }
+}
+
+module NetworkLPK.Swift {
+  header "NetworkLPK-Swift.h"
+  requires objc
+}
