@@ -278,7 +278,6 @@
             "usr": "s:10NetworkLPK0A5LayerCACycfc",
             "mangledName": "$s10NetworkLPK0A5LayerCACycfc",
             "moduleName": "NetworkLPK",
-            "implicit": true,
             "init_kind": "Designated"
           }
         ],
